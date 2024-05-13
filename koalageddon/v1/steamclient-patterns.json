@@ -3,5 +3,6 @@
     "IsSubscribedApp": "55 8B EC 8B 45 08 83 EC ?? 85 C0 79",
     "GetDLCDataByIndex": "55 8B EC 83 7D 10 ?? 8B C1",
     "SharedLibraryLockStatus": "55 8B EC 83 EC ?? 53 56 89 4D FC 8D 4D C8",
-    "SharedLibraryStopPlaying": "55 8B EC 81 EC ?? ?? ?? ?? 53 56 57 89 4D ?? 8D 4D"
+    "SharedLibraryStopPlaying": "55 8B EC 81 EC ?? ?? ?? ?? 53 56 57 89 4D ?? 8D 4D",
+    "SharedLockForAppChanged": "55 8B EC 81 EC E8 00 00 00 8A 45 0B 56 57 6A 00 6A 00 89 4D DC 8D 4D"
 }
